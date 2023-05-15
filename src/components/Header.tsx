@@ -65,6 +65,17 @@ export default function Header() {
                 <span class="ml-1 font-extrabold text-slate-7 dark:text-slate">
                   AI
                 </span>
+                <a
+                  class="ml-2 <sm:hidden"
+                  href="http://wz.uiuehome.com/" target="_blank"
+                >
+                 冰点AI导航
+                </a>
+                <a
+                  class="ml-2"
+                >
+                  冰点出品必属精品
+                </a>
               </>
             }
           >
