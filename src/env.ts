@@ -19,11 +19,7 @@ export const defaultEnv = {
     APIModel: "gpt-3.5-turbo" as Model
   },
   CLIENT_DEFAULT_MESSAGE: `Powered by OpenAI 
-- 直接在输入框输入内容开启你的ChatGPT之旅吧。
-- 如果本项目本着开源精神，永久免费。
-- 如果你有自己的key，也可以直接配置。
-- 现在支持多个对话，打开对话设置，点击新建对话。在输入框里输入 [[/]][[/]] 或者 [[空格]][[空格]] 可以切换对话，搜索历史消息，如果你看不懂，也没关系不影响。
-- 开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。
+- 直接在输入框输入内容开启你的ChatGPT之旅吧， 冰点出品，永久免费，不需要魔法，不需要翻墙。
 `,
   CLIENT_MAX_INPUT_TOKENS: {
     "gpt-3.5-turbo": 4 * 1024,
